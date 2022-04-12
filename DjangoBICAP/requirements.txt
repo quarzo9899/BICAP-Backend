@@ -1,0 +1,8 @@
+django >= 2.1.6
+django-nested-admin >=3.3.1
+djangorestframework>=3.9.0
+django-rest-auth
+Pillow
+gunicorn
+preview-generator
+psycopg2-binary
